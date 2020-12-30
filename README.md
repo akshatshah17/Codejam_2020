@@ -1,4 +1,4 @@
-# codejam
+# Codejam 2020
 Codejam contest answers
 all the codes have .java extention
 screenshot of final rank file rank.docx
